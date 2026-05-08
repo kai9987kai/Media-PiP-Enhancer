@@ -1,0 +1,1 @@
+"An advanced Picture-in-Picture (PiP) web tool that supports images and videos. Features customizable PiP settings, including size, border, and controls." This succinct description and name should give potential users and contributors a quick understanding of what your project is about.
